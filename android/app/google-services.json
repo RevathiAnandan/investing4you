@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744978405789",
+    "project_id": "investing4you-9d69b",
+    "storage_bucket": "investing4you-9d69b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744978405789:android:f02d0111c0a83a1a323774",
+        "android_client_info": {
+          "package_name": "com.i4u.investing4you"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744978405789-94fl3kj7t5t9g7k3mt03gbkosq9e2rp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAked_EmzKCtoIsQk0GMatKeqmsDcogm6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744978405789-94fl3kj7t5t9g7k3mt03gbkosq9e2rp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
